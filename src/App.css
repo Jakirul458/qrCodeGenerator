@@ -1,0 +1,20 @@
+/* src/styles/styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.home, .qr-code-page {
+  text-align: center;
+  padding: 20px;
+}
+
+.qr-generator input {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.customization-panel {
+  margin-top: 20px;
+}
